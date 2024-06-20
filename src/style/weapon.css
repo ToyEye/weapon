@@ -1,0 +1,40 @@
+.weaponList img {
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.weapon_container {
+  position: relative;
+}
+
+.weaponList.hidden-list {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translateY(-100%);
+  opacity: 0;
+}
+
+.weaponList {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 16px;
+
+  transform: translateY(0);
+  opacity: 1;
+
+  transition: 350ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.weaponList li {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 5px 10px;
+
+  background-color: var(--weapon-list-bgc);
+  color: var(--main-white-color);
+}
+
+.weaponList p {
+  margin-bottom: 10px;
+}

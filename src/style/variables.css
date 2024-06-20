@@ -1,0 +1,14 @@
+:root {
+  --main-dark-color: black;
+  --main-white-color: #ffffff;
+
+  --modal-backdrop-bgc: rgba(0, 0, 0, 0.2);
+  --modal-bgc: rgb(42, 37, 37);
+
+  --weapon-list-bgc: #5aac91;
+
+  --main-btn-color: #333333;
+  --main-btn-border-color: #252525;
+
+  --modal-close-btn: #8792eb;
+}
