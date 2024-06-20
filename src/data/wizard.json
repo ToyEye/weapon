@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Fire stuff",
+    "img": "/img/fire_staff.jpg",
+    "description": "This stuff use fire Wizards.",
+    "full_description": "Thanks to the fire staff, wizards can inspire fear and burn everything in their path.",
+    "atack": "Atack: 88-100 points",
+    "block": "Block chanse: 3%",
+    "critical_chance": "Burning effect"
+  },
+  {
+    "id": "2",
+    "name": "Ice stuff",
+    "img": "/img/ice_staff.jpg",
+    "description": "This stuff use ice Wizards.",
+    "full_description": "Thanks to the ice staff, magicians can freeze everything around and cool down the ardor of enemies",
+    "atack": "Atack: 56-75 points",
+    "block": "Block chanse: 5%",
+    "critical_chance": "Freeze effect"
+  },
+  {
+    "id": "3",
+    "name": "Mystic ball",
+    "img": "/img/mystic_ball.jpg",
+    "description": "This ball use Wizards arcane sciences.",
+    "full_description": "Thanks to this orb, they can use suggestion to charm everyone without resorting to violence",
+    "atack": "Atack: 28-39 points",
+    "block": "Block chanse: 0%",
+    "critical_chance": "Enchant effect"
+  }
+]

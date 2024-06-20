@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Long Sword",
+    "img": "/img/long_sword.jpg",
+    "description": "Long sword for real Warriors",
+    "full_description": "This sword use Paladins",
+    "atack": "Atack: 88-100 points",
+    "block": "Block chanse: 5%",
+    "critical_chance": "Critical chance: 13%"
+  },
+  {
+    "id": "2",
+    "name": "Short Sword",
+    "img": "/img/short_sword.jpg",
+    "description": "Short sword for Warriors with shields",
+    "full_description": "This sword use warriors on thr siege or in shield wall",
+    "atack": "Atack: 56-75 points",
+    "block": "Block chanse: 10%",
+    "critical_chance": "Critical chance: 18%"
+  }
+]
